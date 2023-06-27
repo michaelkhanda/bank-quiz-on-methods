@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F9AFE210-87D1-4754-A64E-5E3AC01412E5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/FALL SEMESTER 2021/APT 1030/Flag_Assignment/Backup/Flag_Assignment/Program.cs">
+    <Files>
+      <File FileName="../../Documents/FALL SEMESTER 2021/APT 1030/Flag_Assignment/Backup/Flag_Assignment/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bankquizonmethods" expanded="True">
+            <Node name="Bankquizonmethods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bankquizonmethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

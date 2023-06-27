@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/Bankquizonmethods/bin/Debug/netcoreapp3.1/Bankquizonmethods.deps.json
+/Users/michaelkhanda/Desktop/Bankquizonmethods/bin/Debug/netcoreapp3.1/Bankquizonmethods.runtimeconfig.json
+/Users/michaelkhanda/Desktop/Bankquizonmethods/bin/Debug/netcoreapp3.1/Bankquizonmethods.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/Bankquizonmethods/bin/Debug/netcoreapp3.1/Bankquizonmethods.dll
+/Users/michaelkhanda/Desktop/Bankquizonmethods/bin/Debug/netcoreapp3.1/Bankquizonmethods.pdb
+/Users/michaelkhanda/Desktop/Bankquizonmethods/obj/Debug/netcoreapp3.1/Bankquizonmethods.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/Bankquizonmethods/obj/Debug/netcoreapp3.1/Bankquizonmethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/Bankquizonmethods/obj/Debug/netcoreapp3.1/Bankquizonmethods.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/Bankquizonmethods/obj/Debug/netcoreapp3.1/Bankquizonmethods.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/Bankquizonmethods/obj/Debug/netcoreapp3.1/Bankquizonmethods.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/Bankquizonmethods/obj/Debug/netcoreapp3.1/Bankquizonmethods.dll
+/Users/michaelkhanda/Desktop/Bankquizonmethods/obj/Debug/netcoreapp3.1/Bankquizonmethods.pdb
+/Users/michaelkhanda/Desktop/Bankquizonmethods/obj/Debug/netcoreapp3.1/Bankquizonmethods.genruntimeconfig.cache
